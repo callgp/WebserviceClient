@@ -12,7 +12,7 @@ public class Main {
    
    String celcius="102";
    String celsiusToFahrenheit = tempConvertSoap.celsiusToFahrenheit(celcius);
-   System.out.println("celsiusToFahrenheit is "+celsiusToFahrenheit);
+   System.out.println("celsiusToFahrenheit is "+celsiusToFahrenheit	);
 	}
 
 }
